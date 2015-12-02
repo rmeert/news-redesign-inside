@@ -58,3 +58,14 @@ h6 {
 	font-family: 'Lora', serif;
 	margin-top: 7px;
 }
+
+.comments {
+	border: solid gray;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	margin-top: 30px;
+	padding-top: 15px;
+	padding-bottom: 100px;
+	padding-left: 15px;
+	width: 100%;
+}
